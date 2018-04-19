@@ -1,0 +1,17 @@
+﻿Build started 4/17/2018 12:47:52 PM.
+     1>Project "C:\Users\dp201524\Desktop\git c++\chapter 2&3\March Angry Frustrations\March Angry Frustrations\March Angry Frustrations.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /analyze- /errorReport:prompt /clr:nostdlib Source.cpp
+         Source.cpp
+     1>Source.cpp(33): warning C4018: '<' : signed/unsigned mismatch
+     1>Source.cpp(38): warning C4018: '<' : signed/unsigned mismatch
+     1>Source.cpp(17): warning C4101: 'c' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dp201524\Desktop\git c++\chapter 2&3\March Angry Frustrations\Debug\March Angry Frustrations.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\dp201524\Desktop\git c++\chapter 2&3\March Angry Frustrations\Debug\March Angry Frustrations.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Source.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         March Angry Frustrations.vcxproj -> C:\Users\dp201524\Desktop\git c++\chapter 2&3\March Angry Frustrations\Debug\March Angry Frustrations.exe
+     1>Done Building Project "C:\Users\dp201524\Desktop\git c++\chapter 2&3\March Angry Frustrations\March Angry Frustrations\March Angry Frustrations.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.96
